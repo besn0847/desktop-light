@@ -15,3 +15,12 @@ To change VNC password :
 Minimal desktop screenshot :
 
 <img src="https://github.com/besn0847/desktop-light/raw/master/desktop-light.png" width=400/>
+
+Software included in this container :
+
+* All the software from desktop-mini:1.0 +
+* firefox
+* owncloud-client
+* filezilla
+* xpdf
+* gimp
