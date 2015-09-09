@@ -4,7 +4,7 @@ Use VNC Viewer to access the desktop with 'passw0rd' as the password. Don't forg
 
 To start the container, simply type :
 ```
-[prompt]> docker run -d -p 5900:5900 me My-Desktop besn0847/desktop-light:1.0
+[prompt]> docker run -d -p 5900:5900 --name My-Desktop besn0847/desktop-light:1.0
 ```
 
 To change VNC password :
